@@ -1,0 +1,132 @@
+body{
+	font-family: 'Merriweather', serif; 
+	margin: 0;
+	text-align: center;
+	background-color: #ffffff;
+
+}
+
+
+.profile{
+			  background-color: #ccffff;
+			  margin: 0 auto;
+			  position: relative;
+			  padding-top: 50px;
+			  padding-bottom: 50px;
+}
+
+.profile-pics{
+	border-radius: 50%;
+	float: left;
+	margin: 0 40px;
+}
+
+.education{
+	font-family: 'Montserrat', sans-serif;
+	margin: 50px 0;
+	text-align:left;
+	font-weight: bolder;
+}
+
+.education-list{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1rem;
+	text-align:left;
+}
+
+.work{
+	font-family: 'Montserrat', sans-serif;
+	margin: 50px 0;
+	text-align:left;
+	font-weight: bolder;
+}
+
+.job{
+	font-family: 'Montserrat', sans-serif;
+	margin: 50px 0;
+	text-align:left;
+	
+}
+
+
+h1{
+	font-family: 'Sacramento', cursive;
+	color: #3b064d;
+	font-size: 3rem;
+}
+
+h2{
+	font-family: 'Montserrat', sans-serif;
+	color: #38470b;
+	font-weight: normal;
+	padding-bottom: 20px;
+}
+
+hr{
+	width: 5%;
+	border-style: dotted none none;
+	border-width: 5px;
+	margin: 80px auto;
+	color: #d9eeec;
+}
+th{
+	width: 80%;
+	margin: 100px auto;
+	color: #3b064d;
+	font-weight: bolder;
+	font-size: 1.3rem;
+
+}
+
+tr{
+	margin: 50px auto;
+}
+
+.table1{
+	font-family: 'Montserrat', sans-serif;
+	text-align:justify-all;
+	width: 10%;
+}
+
+.job-title{
+	width: 50%;
+	margin: 50px auto;
+}
+
+strong{
+	font-weight: bolder;
+	color: #3b064d;
+}
+
+.skills{
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.skill{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+	text-align: left;
+	padding-bottom: 0;
+	padding-top: 0;
+}
+
+p{
+	text-align: left;
+}
+
+.contact{
+	float: right;
+}
+
+a{
+	text-decoration: none;
+}
+
+.contact-me{
+	background-color: #ccffff;
+}
+
+.head{
+	font-weight: bolder;
+}
